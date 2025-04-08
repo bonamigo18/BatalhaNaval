@@ -1,21 +1,26 @@
-🎓 Projeto Acadêmico – Jogo de Batalha Naval
+# 🚢 Jogo de Batalha Naval
 
-Projeto desenvolvido como parte da disciplina Técnicas em Programção, com o objetivo de aplicar conceitos de lógica de programação, estruturas de dados e interação com o usuário. O desafio consistia em criar uma versão funcional do clássico jogo de Batalha Naval, onde o jogador deve posicionar embarcações e tentar afundar os navios do oponente.
+🎓 **Projeto Acadêmico – Técnicas em Programação**
 
-🧩 Funcionalidades Implementadas
-Geração e posicionamento de navios
+Este projeto foi desenvolvido como parte da disciplina de Técnicas em Programação, com o objetivo de aplicar na prática os conceitos de **lógica de programação**, **estruturas de dados** e **interação com o usuário**. O desafio consistia em criar uma versão funcional do clássico **jogo de Batalha Naval**, utilizando a linguagem Kotlin.
 
-Interface de interação via terminal
+---
 
-Sistema de turnos e detecção de acertos/erros
+## 🧩 Funcionalidades Implementadas
 
-Verificação de vitória
+- 🔀 Geração e posicionamento automático de navios
+- 🎮 Interface de interação via terminal
+- 🔁 Sistema de turnos entre jogador e oponente
+- 🎯 Detecção de acertos e erros nos disparos
+- 🏁 Verificação de vitória ao final do jogo
 
-💡 Aprendizados
-Manipulação de matrizes
+---
 
-Controle de fluxo e estrutura de repetição
+## 💡 Aprendizados
 
-Lógica de validação e regras de jogo
+Durante o desenvolvimento deste projeto, foram trabalhados diversos conceitos fundamentais:
 
-Desenvolvimento em Kotlin
+- 📊 Manipulação de matrizes para representar o tabuleiro
+- 🔁 Controle de fluxo e estruturas de repetição
+- 🧠 Lógica de validação e implementação das regras do jogo
+- 💻 Desenvolvimento com a linguagem **Kotlin**
